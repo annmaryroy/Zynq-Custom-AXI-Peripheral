@@ -33,6 +33,30 @@ The processor writes data to AXI registers to control onboard LEDs, illustrating
 5. Assign address space for AXI registers
 6. Generate bitstream
 
+### Block Design
+![Block Design](results/3bd.png)
+
+The block design integrates:
+- Zynq Processing System  
+- AXI Interconnect  
+- Custom AXI4-Lite Peripheral  
+
+
+---
+
+### Implemented Design
+![Implementation](results/3implemented_design.png)
+
+Implementation was completed successfully and bitstream generated.
+
+---
+
+### Timing Summary
+![Timing](results/3timing.png)
+
+Timing constraints are satisfied for the design.
+
+
 ---
 
 ## Software Design Flow
