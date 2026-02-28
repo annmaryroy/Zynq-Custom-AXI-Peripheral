@@ -77,6 +77,7 @@ The processor writes values to memory-mapped AXI registers to control LED output
 ### LED Output Result
 ![LED Output](results/led_output.jpg)
 
+The LED output verifies successful AXI register write from the Processing System to the Programmable Logic.
 ---
 
 ## Key Concepts Demonstrated
