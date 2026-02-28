@@ -1,7 +1,7 @@
 # Zynq-Custom-AXI-Peripheral
 Custom AXI4-Lite Peripheral Design using Zynq-7000 (Vivado)
 
-# Custom AXI4-Lite Peripheral Design using Zynq-7000
+
 
 ## Objective
 Design a custom AXI4-Lite peripheral and integrate it with the Zynq Processing System.
