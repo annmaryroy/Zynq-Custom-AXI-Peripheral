@@ -13,7 +13,7 @@ The processor writes data to AXI registers to control onboard LEDs, illustrating
 - Integrate the custom IP with the Zynq Processing System  
 - Implement PS-to-PL communication using memory-mapped registers  
 - Verify functionality using a bare-metal C application
-
+  
 ---
 
 ## Tools & Technologies
