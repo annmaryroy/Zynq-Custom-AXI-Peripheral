@@ -75,7 +75,7 @@ A bare-metal C application was developed in Vitis to communicate with the custom
 The processor writes values to memory-mapped AXI registers to control LED outputs in the Programmable Logic.
 
 ### LED Output Result
-![LED Output](results/IMG_20260205_151923 (1).jpg)
+![LED Output](results/led_output.jpg)
 
 ---
 
